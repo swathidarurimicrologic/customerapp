@@ -1,0 +1,1174 @@
+[
+  {
+    "name": "Alabama",
+    "abbreviation": "AL",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Alaska",
+    "abbreviation": "AK",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Exterior"
+      }
+    ]
+  },
+  {
+    "name": "American Samoa",
+    "abbreviation": "AS",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": false,
+        "filter_tags": "Interior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Arizona",
+    "abbreviation": "AZ",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": false,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Arkansas",
+    "abbreviation": "AR",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": false,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": false,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "California",
+    "abbreviation": "CA",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": false,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Colorado",
+    "abbreviation": "CO",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": false,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Connecticut",
+    "abbreviation": "CT",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": false,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": false,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Delaware",
+    "abbreviation": "DE",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": false,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": false,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "District Of Columbia",
+    "abbreviation": "DC",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": false
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": false,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Federated States Of Micronesia",
+    "abbreviation": "FM",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Florida",
+    "abbreviation": "FL",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Georgia",
+    "abbreviation": "GA",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Guam",
+    "abbreviation": "GU",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Hawaii",
+    "abbreviation": "HI",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Idaho",
+    "abbreviation": "ID",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior"
+      }
+    ]
+  },
+  {
+    "name": "Illinois",
+    "abbreviation": "IL",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior"
+      }
+    ]
+  },
+  {
+    "name": "Indiana",
+    "abbreviation": "IN",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Iowa",
+    "abbreviation": "IA",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": false,
+        "filter_tags": "Interior"
+      }
+    ]
+  },
+  {
+    "name": "Kansas",
+    "abbreviation": "KS",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Kentucky",
+    "abbreviation": "KY",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Louisiana",
+    "abbreviation": "LA",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Maine",
+    "abbreviation": "ME",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Marshall Islands",
+    "abbreviation": "MH",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Maryland",
+    "abbreviation": "MD",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": false,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Massachusetts",
+    "abbreviation": "MA",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": false,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Michigan",
+    "abbreviation": "MI",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": false,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Minnesota",
+    "abbreviation": "MN",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Mississippi",
+    "abbreviation": "MS",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Missouri",
+    "abbreviation": "MO",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Montana",
+    "abbreviation": "MT",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Nebraska",
+    "abbreviation": "NE",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Nevada",
+    "abbreviation": "NV",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": false,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "New Hampshire",
+    "abbreviation": "NH",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "New Jersey",
+    "abbreviation": "NJ",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "New Mexico",
+    "abbreviation": "NM",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "New York",
+    "abbreviation": "NY",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "North Carolina",
+    "abbreviation": "NC",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "North Dakota",
+    "abbreviation": "ND",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "abbreviation": "MP",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Ohio",
+    "abbreviation": "OH",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Oklahoma",
+    "abbreviation": "OK",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Oregon",
+    "abbreviation": "OR",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Palau",
+    "abbreviation": "PW",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Pennsylvania",
+    "abbreviation": "PA",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Puerto Rico",
+    "abbreviation": "PR",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Rhode Island",
+    "abbreviation": "RI",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "South Carolina",
+    "abbreviation": "SC",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "South Dakota",
+    "abbreviation": "SD",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Tennessee",
+    "abbreviation": "TN",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Texas",
+    "abbreviation": "TX",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Utah",
+    "abbreviation": "UT",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Vermont",
+    "abbreviation": "VT",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Virgin Islands",
+    "abbreviation": "VI",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Virginia",
+    "abbreviation": "VA",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Washington",
+    "abbreviation": "WA",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "West Virginia",
+    "abbreviation": "WV",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Wisconsin",
+    "abbreviation": "WI",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  },
+  {
+    "name": "Wyoming",
+    "abbreviation": "WY",
+    "location_details": [
+      {
+        "location_name": "Western Ave.",
+        "distance": "4.1",
+        "address": "848 Western Ave., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      },
+      {
+        "location_name": "John F.K.",
+        "distance": "2.1",
+        "address": "3517 W. Gray., Santa Monica, CA, 04800",
+        "is_favorite": true,
+        "filter_tags": "Interior, Exterior"
+      }
+    ]
+  }
+]
